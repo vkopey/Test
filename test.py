@@ -1,3 +1,3 @@
 def f(x):
-    "doc"
+    "Повертає x**2"
     return x**2
