@@ -5,3 +5,7 @@ def f(x):
 def f_(x):
     "повертає x**3"
     return x**3
+
+def f2():
+    return 0
+    
